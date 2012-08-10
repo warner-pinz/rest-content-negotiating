@@ -7,11 +7,6 @@
   <packaging>war</packaging>
   <version>1.0.0-BUILD-SNAPSHOT</version>
 
-  <!-- <scm> <connection>scm:svn:http://hpsgfx47.sgp.hp.com:18888/svn/bcm_prototype/webplatform-demo/trunk</connection> 
-    <developerConnection>scm:svn:http://hpsgfx47.sgp.hp.com:18888/svn/bcm_prototype/webplatform-demo/trunk</developerConnection> 
-    <url>http://hpsgfx47.sgp.hp.com:18888/svn/bcm_prototype/webplatform-demo/trunk/</url> 
-    </scm> -->
-
   <properties>
     <java-version>1.6</java-version>
     <org.springframework-version>3.1.2.RELEASE</org.springframework-version>
